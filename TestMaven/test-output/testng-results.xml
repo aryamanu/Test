@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16671" started-at="2019-08-27T04:38:58Z" finished-at="2019-08-27T04:39:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16671" started-at="2019-08-27T04:38:58Z" finished-at="2019-08-27T04:39:15Z">
+      <class name="tests.TestScripts">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestScripts@1b40d5f0]" name="beforeMethod" is-config="true" duration-ms="15939" started-at="2019-08-27T10:08:58Z" finished-at="2019-08-27T10:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyURL()[pri:0, instance:tests.TestScripts@1b40d5f0]" name="verifyURL" duration-ms="19" started-at="2019-08-27T10:09:14Z" finished-at="2019-08-27T10:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method status="PASS" signature="callLoginPage()[pri:1, instance:tests.TestScripts@1b40d5f0]" name="callLoginPage" duration-ms="447" started-at="2019-08-27T10:09:14Z" finished-at="2019-08-27T10:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callLoginPage -->
+        <test-method status="PASS" signature="callHomePage()[pri:2, instance:tests.TestScripts@1b40d5f0]" name="callHomePage" duration-ms="62" started-at="2019-08-27T10:09:14Z" finished-at="2019-08-27T10:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callHomePage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestScripts@1b40d5f0]" name="afterMethod" is-config="true" duration-ms="185" started-at="2019-08-27T10:09:14Z" finished-at="2019-08-27T10:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.TestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
